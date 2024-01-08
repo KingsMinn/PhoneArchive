@@ -1,0 +1,171 @@
+[
+    {
+      "name": "iPhone 13",
+      "price": 1245000,
+      "corp": "Apple",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Galaxy S21",
+      "price": 989000,
+      "corp": "Samsung",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Pixel 6",
+      "price": 861000,
+      "corp": "Google",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "OnePlus 9",
+      "price": 815000,
+      "corp": "OnePlus",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Xperia 1 III",
+      "price": 1578000,
+      "corp": "Sony",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Galaxy Note 20",
+      "price": 1332000,
+      "corp": "Samsung",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 618000,
+      "corp": "Apple",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Mi 11",
+      "price": 916000,
+      "corp": "Xiaomi",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Pixel 5a",
+      "price": 725000,
+      "corp": "Google",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "OnePlus Nord 2",
+      "price": 810000,
+      "corp": "OnePlus",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Xperia 5 III",
+      "price": 1360000,
+      "corp": "Sony",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Galaxy A52",
+      "price": 614000,
+      "corp": "Samsung",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "iPhone 12 Mini",
+      "price": 1189000,
+      "corp": "Apple",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Redmi Note 10",
+      "price": 409000,
+      "corp": "Xiaomi",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Pixel 4a",
+      "price": 629000,
+      "corp": "Google",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "OnePlus 8T",
+      "price": 919000,
+      "corp": "OnePlus",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Xperia 10 III",
+      "price": 732000,
+      "corp": "Sony",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Galaxy A72",
+      "price": 808000,
+      "corp": "Samsung",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "iPhone XR",
+      "price": 794000,
+      "corp": "Apple",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Mi 10",
+      "price": 1246000,
+      "corp": "Xiaomi",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Pixel 3a",
+      "price": 501000,
+      "corp": "Google",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "OnePlus Nord",
+      "price": 707000,
+      "corp": "OnePlus",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Xperia 5 II",
+      "price": 1117000,
+      "corp": "Sony",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Galaxy A51",
+      "price": 531000,
+      "corp": "Samsung",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "iPhone 11",
+      "price": 901000,
+      "corp": "Apple",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Redmi Note 9",
+      "price": 318000,
+      "corp": "Xiaomi",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "Pixel 2 XL",
+      "price": 717000,
+      "corp": "Google",
+      "img": "https://placehold.co/500x400"
+    },
+    {
+      "name": "OnePlus 7 Pro",
+      "price": 813000,
+      "corp": "OnePlus",
+      "img": "https://placehold.co/500x400"
+    }
+  ]
+  
